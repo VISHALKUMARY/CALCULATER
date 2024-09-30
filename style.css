@@ -22,14 +22,14 @@ body {
 }
 
 input {
-    width: 35vw;
+    width: 320px;
     border: none;
     padding: 24px;
-    margin: 15px;
+    margin: 10px;
     text-align: right;
     color: #ffffff;
-    font-size: 45px;
-    background-color: transparent;
+    font-size: 40px;
+    background: transparent;
     cursor: pointer;
 }
 
